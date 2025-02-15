@@ -16,8 +16,7 @@ THIS PAGE HELPS YOU TO CREATE PROFILE PAGE
         Surname: <input type="text" name="surname" size="40" maxlength="50"><br><br>
         Sex: <br>
         <input type="radio" name="sex" value="male"> Male <br>
-        <input type="radio" name="sex" value="female"> Female <br>
-        <br>
+        <input type="radio" name="sex" value="female"> Female <br><br>
         Civil Status: <br>
         <input type="radio" name="status" value="single"> Single <br>
         <input type="radio" name="status" value="married"> Married <br>
@@ -47,56 +46,56 @@ Check your Educational Attainment
 <br>
 College/University: <select name="college/universities">
   <option> -Select-
-  <option> M.G.M. SR. SEC. SCHOOL
-  <option> KRISHNA PUBIC SCHOO
-  <option> DEHI PUBLIC SCHOOL
-  <option> DAV
-  <option> BNS
-  <option> MVN
-  <option> JYOTI PUBILC SCHOOL
-  <option> KINGS AND QUEENS INTERNATIONAL SCHOOL
-  <option> 
-  <option> GNESS
+  <option> PARUL UNIVERSITY
+  <option> LPU
+  <option> DELHI UNIVERSITY
+  <option> MANIPA UNIVERSITY
+  <option> VIT
+  <option> BITS PILLANI
+  <option> JNU
+  <option> SRM
+  <option> CHANDIGARH UNIVERSITY
+  <option> BHU
   </select>
   Year Graduated: <select name="year">
     <option> -Select-
+    <option> 2028
+    <option> 2027
+    <option> 2026
+    <option> 2025
     <option> 2024
     <option> 2023
     <option> 2022
     <option> 2021
     <option> 2020
     <option> 2019
-    <option> 2018
-    <option> 2017
-    <option> 2016
-    <option> 2015
     </select>
     <br>
     <br>
     High School: <select name="highschool">
       <option> -Select-
-      <option> Marigondon National High School
-      <option> Pusok National High School
-      <option> Maribago National High School
-      <option> Lapu-Lapu Central High School
-      <option> Datag National High School
-      <option> Babag 1 National High School
-      <option> Babag 2 National High School 
-      <option> Gun-ob National High School 
+      <option> M.G.M. SR. SEC. SCHOOL
+      <option> KRISHNA PUBIC SCHOOL
+      <option> DPS 
+      <option> GNESS
+      <option> BNS
+      <option> DAV
+      <option> KING AND QUEEN INTERNATIONAL SCHOOL
+      <option> SAINT XAVIER SCHOOL
       </select>
       Year Graduated: <select name="year">
         <option> -Select-
-        <option> 2005
-        <option> 2004
-        <option> 2003
-        <option> 2002
-        <option> 2001
-        <option> 2000
-        <option> 1999
-        <option> 1998
-        <option> 1997
-        <option> 1996
-        <option> 1995
+        <option> 2025
+        <option> 2024
+        <option> 2023
+        <option> 2022
+        <option> 2021
+        <option> 2020
+        <option> 2019
+        <option> 2018
+        <option> 2017
+        <option> 2016
+        <option> 2015
         </select><br>
         <br><br>
         <b><u>CONTACT DETAILS:</b></u> <br> <br>
